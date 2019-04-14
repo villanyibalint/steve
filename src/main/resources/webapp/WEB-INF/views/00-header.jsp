@@ -1,3 +1,8 @@
+<!--  
+ This is an open source software.
+ modified by Villányi Bálint (vilanyib@gmail.com) 2019
+ Released under the GPL
+ -->
 <%@ page contentType="text/html;charset=UTF-8" pageEncoding="UTF-8" language="java" trimDirectiveWhitespaces="true" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib uri="http://www.springframework.org/tags" prefix="spring" %>
@@ -18,13 +23,13 @@
     <script type="text/javascript" src="${ctxPath}/static/js/jquery-ui-timepicker-addon.min.js" ></script>
     <script type="text/javascript" src="${ctxPath}/static/js/script.js" ></script>
     <script type="text/javascript" src="${ctxPath}/static/js/stupidtable.min.js" ></script>
-    <title>SteVe - Steckdosenverwaltung</title>
+    <title>Töltőállomás hálózat</title>
 </head>
 <body>
 <div class="main">
     <div class="top-banner">
         <div class="container">
-            <a href="${ctxPath}/manager/home"><img src="${ctxPath}/static/images/logo2.png" height="80"></a>
+            <span style="font-size:xx-large;">Töltőállomás hálózat</span>
         </div>
     </div>
     <div class="top-menu">
