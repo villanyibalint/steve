@@ -13,6 +13,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="icon" href="${ctxPath}/static/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="${ctxPath}/static/images/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" type="text/css" href="${ctxPath}/static/css/style.css">
     <link rel="stylesheet" type="text/css" href="${ctxPath}/static/css/jquery-ui.min.css">
     <link rel="stylesheet" type="text/css" href="${ctxPath}/static/css/jquery-ui-timepicker-addon.min.css">
