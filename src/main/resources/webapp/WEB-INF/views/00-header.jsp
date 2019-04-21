@@ -29,7 +29,7 @@
 <div class="main">
     <div class="top-banner">
         <div class="container">
-            <span style="font-size:xx-large;">Töltőállomás hálózat</span>
+            <a href="${ctxPath}/manager/home"><img src="${ctxPath}/static/images/logo2.png" height="80"></a>
         </div>
     </div>
     <div class="top-menu">
