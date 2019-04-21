@@ -1,3 +1,8 @@
+<!--  
+ This is an open source software.
+ modified by Villányi Bálint (vilanyib@gmail.com) 2019
+ Released under the GPL
+ -->
 <%@ page contentType="text/html" pageEncoding="utf-8" language="java" trimDirectiveWhitespaces="true" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
@@ -6,10 +11,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="icon" href="${ctxPath}/static/images/favicon.ico" type="image/x-icon" />
-	<link rel="shortcut icon" href="${ctxPath}/static/images/favicon.ico" type="image/x-icon" />
 	<link rel="stylesheet" type="text/css" href="${ctxPath}/static/css/style.css">
-	<title>SteVe - Steckdosenverwaltung</title>
+	<title>Töltőállomáshálózat</title>
 </head>
 <body>
 <div class="main">
